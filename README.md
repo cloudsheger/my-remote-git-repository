@@ -3,7 +3,7 @@
 ### Please install docker for docker exercise 
 
 ```
-sudo apt-get install docker.io
+sudo apt update
 sudo apt-get install docker.io
 
 ```
